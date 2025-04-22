@@ -1,0 +1,12 @@
+streamlit
+pdfplumber
+pandas
+numpy
+openpyxl
+pytesseract
+fuzzywuzzy
+camelot-py
+requests
+pydeck
+pdfminer.six
+pillow
