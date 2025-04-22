@@ -10,3 +10,4 @@ requests
 pydeck
 pdfminer.six
 pillow
+rapidfuzz
